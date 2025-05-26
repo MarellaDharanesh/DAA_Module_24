@@ -37,8 +37,9 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 ## Program :
 
-### Developed by: Lokesh N
-### Register Number: 212222100023
+Developed by: Marella Dharanesh
+
+ Register Number: 212222240062
 
 ```
 class Solution:
