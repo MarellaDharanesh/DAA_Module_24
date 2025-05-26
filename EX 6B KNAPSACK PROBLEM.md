@@ -25,9 +25,10 @@ To create a python program using dynamic programming for 0/1 knapsack problem..
 8.Return the maximum of the two choices (include or exclude).
 
 ## Program :
+Developed by: Marella Dharanesh
 
-### Developed by: Lokesh N
-### Register Number:  212222100023
+ Register Number: 212222240062
+
 
 ```
 def knapSack(W, wt, val, n):
